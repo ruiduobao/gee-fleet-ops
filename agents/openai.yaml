@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEE Fleet Ops"
+  short_description: "Operate a pool of Google Earth Engine accounts: health checks, quota, task cancellation, authorization"
+  default_prompt: "Health-check my Earth Engine account pool and summarize which accounts and repositories are usable."
